@@ -124,6 +124,7 @@ pre[class*="language-"] {
 
 div.code-toolbar {
 	position: relative;
+	width: 100%;
 }
 
 div.code-toolbar > .toolbar {
