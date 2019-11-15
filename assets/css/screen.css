@@ -2761,11 +2761,12 @@ Usage (In Ghost editor):
 
 .site-footer-nav a {
     position: relative;
+    align-self: center;
     margin-left: 20px;
 }
 
 .site-footer-nav a:before {
-    content: "";
+    content: none;
     position: absolute;
     top: 11px;
     left: -11px;
